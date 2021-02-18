@@ -135,6 +135,18 @@
       "bug_bounty": "FALSE"
     }
   ],
+  "AkinAguda": [
+    {
+      "repository": "Website",
+      "title": "Mobile drop down icon not clickable",
+      "issue_id": "1179",
+      "pr_id": "1190",
+      "completed_by": "AkinAguda",
+      "completed_date": "1/26/21",
+      "amount_paid": "1000",
+      "bug_bounty": "TRUE"
+    }
+  ],
   "Akshit1311": [
     {
       "repository": "Website",
@@ -1089,6 +1101,58 @@
       "bug_bounty": "FALSE"
     }
   ],
+  "Paul-Taiwo": [
+    {
+      "repository": "Website",
+      "title": "New Contributor - Aathil Ahamed",
+      "issue_id": "1188",
+      "pr_id": "1206",
+      "completed_by": "Paul-Taiwo",
+      "completed_date": "1/17/21",
+      "amount_paid": "500",
+      "bug_bounty": "FALSE"
+    },
+    {
+      "repository": "Website",
+      "title": "New Contributor - Tristan Spearing",
+      "issue_id": "1186",
+      "pr_id": "1203",
+      "completed_by": "Paul-Taiwo",
+      "completed_date": "1/17/21",
+      "amount_paid": "500",
+      "bug_bounty": "FALSE"
+    },
+    {
+      "repository": "Website",
+      "title": "New Contributor - Tomiwa",
+      "issue_id": "1187",
+      "pr_id": "1202",
+      "completed_by": "Paul-Taiwo",
+      "completed_date": "1/17/21",
+      "amount_paid": "500",
+      "bug_bounty": "FALSE"
+    },
+    {
+      "repository": "Website",
+      "title": "Add title on some pages",
+      "issue_id": "626",
+      "pr_id": "654",
+      "completed_by": "Paul-Taiwo",
+      "completed_date": "11/9/20",
+      "amount_paid": "2000",
+      "bug_bounty": "FALSE"
+    },
+    {
+      "repository": "Website",
+      "title": "New Contributor",
+      "issue_id": "1197",
+      "pr_id": "1211",
+      "completed_by": "Paul-Taiwo",
+      "completed_date": "1/21/21",
+      "amount_paid": "500",
+      "bug_bounty": "FALSE"
+    }
+  ],
   "ProdexOne": [
     {
       "repository": "Website",
@@ -1119,6 +1183,86 @@
       "pr_id": "1140",
       "completed_by": "Rajputusman",
       "completed_date": "12/22/20",
+      "amount_paid": "500",
+      "bug_bounty": "FALSE"
+    },
+    {
+      "repository": "Website",
+      "title": "Job Listing Removal",
+      "issue_id": "1215",
+      "pr_id": "1218",
+      "completed_by": "Rajputusman",
+      "completed_date": "1/21/21",
+      "amount_paid": "500",
+      "bug_bounty": "FALSE"
+    },
+    {
+      "repository": "Website",
+      "title": "Remove Contributor",
+      "issue_id": "1221",
+      "pr_id": "1222",
+      "completed_by": "Rajputusman",
+      "completed_date": "1/25/21",
+      "amount_paid": "500",
+      "bug_bounty": "FALSE"
+    },
+    {
+      "repository": "Website",
+      "title": "Remove Contributor from Teams Page",
+      "issue_id": "1210",
+      "pr_id": "1213",
+      "completed_by": "Rajputusman",
+      "completed_date": "1/21/21",
+      "amount_paid": "500",
+      "bug_bounty": "FALSE"
+    },
+    {
+      "repository": "Website",
+      "title": "Move me as Marketing Lead",
+      "issue_id": "1233",
+      "pr_id": "1236",
+      "completed_by": "Rajputusman",
+      "completed_date": "1/31/21",
+      "amount_paid": "250",
+      "bug_bounty": "FALSE"
+    },
+    {
+      "repository": "Website",
+      "title": "New Contributor",
+      "issue_id": "1231",
+      "pr_id": "1232",
+      "completed_by": "Rajputusman",
+      "completed_date": "2/02/21",
+      "amount_paid": "500",
+      "bug_bounty": "FALSE"
+    },
+    {
+      "repository": "Website",
+      "title": "New Contributor",
+      "issue_id": "1144",
+      "pr_id": "1145",
+      "completed_by": "Rajputusman",
+      "completed_date": "2/03/21",
+      "amount_paid": "500",
+      "bug_bounty": "FALSE"
+    },
+    {
+      "repository": "Website",
+      "title": "New Contributor",
+      "issue_id": "1237",
+      "pr_id": "1242",
+      "completed_by": "Rajputusman",
+      "completed_date": "2/03/21",
+      "amount_paid": "500",
+      "bug_bounty": "FALSE"
+    },
+    {
+      "repository": "Website",
+      "title": "New Contributor",
+      "issue_id": "1238",
+      "pr_id": "1243",
+      "completed_by": "Rajputusman",
+      "completed_date": "2/03/21",
       "amount_paid": "500",
       "bug_bounty": "FALSE"
     }
@@ -2615,6 +2759,26 @@
       "completed_date": "12/20/20",
       "amount_paid": "1000",
       "bug_bounty": "FALSE"
+    },
+    {
+      "repository": "Website",
+      "title": "update discord social link with new custom link",
+      "issue_id": "1247",
+      "pr_id": "1246",
+      "completed_by": "dhakal0kushal",
+      "completed_date": "2/02/21",
+      "amount_paid": "250",
+      "bug_bounty": "FALSE"
+    },
+    {
+      "repository": "Design",
+      "title": "Coins Memes Infographic (includes 3)",
+      "issue_id": "92",
+      "pr_id": "",
+      "completed_by": "dhakal0kushal",
+      "completed_date": "1/28/21",
+      "amount_paid": "3000",
+      "bug_bounty": "FALSE"
     }
   ],
   "donmbelembe": [
@@ -3431,6 +3595,16 @@
       "completed_date": "1/16/21",
       "amount_paid": "500",
       "bug_bounty": "TRUE"
+    },
+    {
+      "repository": "Website",
+      "title": "Standardize query param component",
+      "issue_id": "1195",
+      "pr_id": "1196",
+      "completed_by": "jamessspanggg",
+      "completed_date": "1/19/21",
+      "amount_paid": "2000",
+      "bug_bounty": "FALSE"
     }
   ],
   "jonathanlee06": [
@@ -3442,6 +3616,38 @@
       "completed_by": "jonathanlee06",
       "completed_date": "11/11/20",
       "amount_paid": "500",
+      "bug_bounty": "FALSE"
+    }
+  ],
+  "jroberts91": [
+    {
+      "repository": "Website",
+      "title": "[Leaderboard] Mismatch of issue for tasks completed",
+      "issue_id": "1200",
+      "pr_id": "1205",
+      "completed_by": "jroberts91",
+      "completed_date": "1/18/21",
+      "amount_paid": "250",
+      "bug_bounty": "FALSE"
+    },
+    {
+      "repository": "Website",
+      "title": "Remove Contributor from Teams page",
+      "issue_id": "1207",
+      "pr_id": "1209",
+      "completed_by": "jroberts91",
+      "completed_date": "1/18/21",
+      "amount_paid": "500",
+      "bug_bounty": "FALSE"
+    },
+    {
+      "repository": "Website",
+      "title": "Left part of TopNav has a undesired white bg color",
+      "issue_id": "1217",
+      "pr_id": "1220",
+      "completed_by": "jroberts91",
+      "completed_date": "1/21/21",
+      "amount_paid": "250",
       "bug_bounty": "FALSE"
     }
   ],
@@ -3619,6 +3825,16 @@
       "pr_id": "",
       "completed_by": "kristykjlee",
       "completed_date": "11/17/20",
+      "amount_paid": "5000",
+      "bug_bounty": "FALSE"
+    },
+    {
+      "repository": "Design",
+      "title": "Update Bank OVERVIEW & Purchase Confirmation Service ModaL",
+      "issue_id": "120",
+      "pr_id": "",
+      "completed_by": "kristykjlee",
+      "completed_date": "1/28/21",
       "amount_paid": "5000",
       "bug_bounty": "FALSE"
     }
@@ -4289,6 +4505,16 @@
       "pr_id": "104",
       "completed_by": "nishp77",
       "completed_date": "12/29/20",
+      "amount_paid": "2000",
+      "bug_bounty": "FALSE"
+    },
+    {
+      "repository": "Kotlin-SDK",
+      "title": "Implement POST request for Crawl in Bank API",
+      "issue_id": "97",
+      "pr_id": "109",
+      "completed_by": "nishp77",
+      "completed_date": "1/3/21",
       "amount_paid": "2000",
       "bug_bounty": "FALSE"
     }
@@ -5062,6 +5288,26 @@
       "completed_by": "tomijaga",
       "completed_date": "12/17/20",
       "amount_paid": "1000",
+      "bug_bounty": "FALSE"
+    },
+    {
+      "repository": "Kotlin-SDK",
+      "title": "Implement Pagination for GET endpoints in Bank API",
+      "issue_id": "98",
+      "pr_id": "111",
+      "completed_by": "tomijaga",
+      "completed_date": "1/9/21",
+      "amount_paid": "5000",
+      "bug_bounty": "FALSE"
+    },
+    {
+      "repository": "Kotlin-SDK",
+      "title": "Implement GET request for Config in Primary Validator API",
+      "issue_id": "117",
+      "pr_id": "121",
+      "completed_by": "tomijaga",
+      "completed_date": "1/25/21",
+      "amount_paid": "2000",
       "bug_bounty": "FALSE"
     }
   ],

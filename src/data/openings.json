@@ -100,48 +100,6 @@
     "technologyRequirements": ["Skilled in Figma", "Skilled in Illustrator"]
   },
   {
-    "openingId": "content-writer",
-    "applicationMethods": [
-      {
-        "channel": "slack",
-        "note": "Message Pulkit Bajaj & Siddhesh Kulthe - Head Of Marketing"
-      },
-      {
-        "channel": "linkedin"
-      },
-      {
-        "channel": "twitter"
-      },
-      {
-        "channel": "reddit"
-      }
-    ],
-    "category": "Marketing",
-    "description": "Work with our marketing team to create written content for email campaigns and blogs to make awareness about our product.",
-    "payNotes": ["2,800 coins/day"],
-    "position": "Content Writer",
-    "reportsTo": [
-      {
-        "githubUsername": "pulkitbajaj007",
-        "name": "Pulkit"
-      },
-      {
-        "githubUsername": "iamsid47",
-        "name": "Siddhesh"
-      }
-    ],
-    "responsibilities": [
-      "Create written material for our email campaigns",
-      "Produce well-researched content for blogs",
-      "Give feedback on writings"
-    ],
-    "technologyRequirements": [
-      "An understanding of search engine optimization best practices",
-      "Understanding grammar rules and how to construct clear sentences",
-      "Being mindful of things like flow, readability, and sentence variety"
-    ]
-  },
-  {
     "openingId": "senior-dot-net-core-developer",
     "applicationMethods": [
       {
@@ -181,11 +139,11 @@
     ]
   },
   {
-    "openingId": "wordpress-developer",
+    "openingId": "social-media-manager",
     "applicationMethods": [
       {
         "channel": "slack",
-        "note": "Message Bucky or Siddhesh Kulthe - Head Of Marketing"
+        "note": "Message MsChrishaph"
       },
       {
         "channel": "linkedin"
@@ -198,38 +156,69 @@
       }
     ],
     "category": "Engineering",
-    "description": "Work on developing and designing a WordPress blog for thenewboston.",
+    "description": "Social Media Managers are responsible for planning, implementing, managing and monitoring company's Social Media strategy in order to increase brand awareness, improve Marketing effort.",
     "payNotes": ["2,800 coins/day"],
-    "position": "WordPress Developer",
+    "position": "Social Media Manager",
     "reportsTo": [
       {
-        "githubUsername": "buckyroberts",
-        "name": "Bucky"
-      },
-      {
-        "githubUsername": "iamsid47",
-        "name": "Siddhesh"
+        "githubUsername": "Chrisha1212",
+        "name": "Chrisha"
       }
     ],
     "responsibilities": [
-      "To develop a vibrant and appreciable WordPress blog",
-      "Create eye-catching headlines and sections for an increased user-engagement",
-      "Optimizing images, writing alt-text for all the images used for the blog",
-      "Giving feedbacks and suggestions for a scope of improvement"
+      "Develop, implement and manage our social media strategy",
+      "Define most important social media KPIs",
+      "Manage and oversee social media content",
+      "Measure the success of every social media campaign",
+      "Stay up to date with latest social media best practices and technologies",
+      "Work with copywriters and designers to ensure content is informative and appealing",
+      "Collaborate with Marketing Teams"
     ],
     "technologyRequirements": [
-      "Needs to have a good understanding of WordPress and how things work there",
-      "Required to know how to install plugins and themes and customize images and content to their core",
-      "Required to have a good understanding of keywords, SEO (basic knowledge is accepted), image optimization, alt text, etc.",
-      "Required to know HTML and CSS (Intermediate levels are preferred)"
+      "Proven work experience as a Social media manager",
+      "G-suite expert",
+      "Solid knowledge of SEO, keyword research and Google Analytics"
     ]
   },
   {
-    "openingId": "seo-manager",
+    "openingId": "tnb-forum-ui-ux-designer",
     "applicationMethods": [
       {
         "channel": "slack",
-        "note": "Message Siddhesh Kulthe"
+        "note": "Message Avinash Upadhyaya"
+      }
+    ],
+    "reportsTo": [
+      {
+        "githubUsername": "",
+        "name": ""
+      }
+    ],
+    "category": "Design",
+    "project": {
+      "name": "TNB Forum",
+      "url": "https://github.com/arunnalla/tnbforum"
+    },
+    "description": "Have a good experience in UI/UX standards",
+    "payNotes": ["2,800 coins/day"],
+    "position": "UI/UX Designer",
+    "responsibilities": [
+      "Design the web interfaces using Figma",
+      "Design pages from scratch based on requirements",
+      "Coordinate and take notes from other teammates"
+    ],
+    "technologyRequirements": [
+      "Using Figma is a must",
+      "Knowledge of design systems is good to know",
+      "Knowledge of React is preferred"
+    ]
+  },
+  {
+    "openingId": "data-entry-operator",
+    "applicationMethods": [
+      {
+        "channel": "slack",
+        "note": "Message MsChrishaph"
       },
       {
         "channel": "linkedin"
@@ -242,27 +231,28 @@
       }
     ],
     "category": "Marketing",
-    "description": "We are looking for an SEO Manager to coordinate SEO efforts, including onsite and offsite optimization and keyword expansion research. You’ll also oversee paid search campaigns to ensure their success. We are looking for an analytical and perceptive professional who is a skilled communicator and able to collaborate with various teams. Current knowledge of SEO practices and techniques is essential to this role. Your goal will be to ensure that content is search-engine friendly and optimized to increase our company’s profitability.",
+    "description": "We are looking for a Data Entry Operator to update and maintain information on our Marketing Team database .",
     "payNotes": ["2,800 coins/day"],
-    "position": "SEO Manager",
+    "position": "Data Entry Operator",
     "reportsTo": [
       {
-        "githubUsername": "iamsid47",
-        "name": "Siddhesh Kulthe"
+        "githubUsername": "Chrisha1212",
+        "name": "Chrisha"
       }
     ],
     "responsibilities": [
-      "Develop and execute successful SEO strategies",
-      "Conduct keyword research to guide content teams",
-      "Review technical SEO issues and recommend fixes",
-      "Optimize website content, landing pages and paid search copy",
-      "Collect data and report on traffic, rankings and other SEO aspects",
-      "Work with social media to optimize campaigns"
+      "Maintaining accurate, up-to-date and useable information in our systems",
+      "Comply with data integrity and security policies",
+      "Keep information confidential",
+      "Research and obtain further information for incomplete documents",
+      "Compile, verify accuracy and sort information according to priorities to prepare source data for computer entry",
+      "Review data for deficiencies or errors, correct any incompatibilities if possible and check output"
     ],
     "technologyRequirements": [
-      "Knowledge of standard and current SEO practices",
-      "Experience with SEO reporting",
-      "Familiarity with relevant tools (e.g. Conductor, Screaming Frog, MOZ) and web analytics tools (e.g. Google Analytics, WebTrends)"
+      "Proven data entry work experience, as a Data Entry Operator or Office Clerk",
+      "Experience with MS Office and data programs",
+      "Excellent knowledge of correct spelling, grammar and punctuation",
+      "Can work with Marketing Team"
     ]
   }
 ]
